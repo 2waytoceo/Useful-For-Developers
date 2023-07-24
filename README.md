@@ -1,4 +1,3 @@
-## 𝟐𝐖𝐚𝐲𝐓𝐨𝐂𝐞𝐨.𝐆𝐢𝐭𝐇𝐮𝐛.𝐢𝐨 ##
 ![Repository Banner](header.jpg)
 #### Please read [`contributing guidelines`](./contributing.md) before submitting new resources.
 
