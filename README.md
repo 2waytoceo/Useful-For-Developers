@@ -1,4 +1,5 @@
-## `𝟐𝐖𝐚𝐲𝐓𝐨𝐂𝐞𝐨.𝐆𝐢𝐭𝐇𝐮𝐛.𝐢𝐨` ##
+## 𝟐𝐖𝐚𝐲𝐓𝐨𝐂𝐞𝐨.𝐆𝐢𝐭𝐇𝐮𝐛.𝐢𝐨 ##
+![Repository Banner](video_20230604_153509_edit.mp4)
 #### Please read [`contributing guidelines`](./contributing.md) before submitting new resources.
 
 ## Table of Contents
